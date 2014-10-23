@@ -1,8 +1,7 @@
-## Put comments here that give an overall description of what your
-## functions do
-
-## Write a short comment describing this function
-
+#creating the template of a matrix set and 
+# calling the matrix through a function makeCacheMatrix
+# the function will cache the result and help to recall 
+#to avoid unncessary repeat in calculation
 makeCacheMatrix <- function(x = matrix()) {
 
 }
